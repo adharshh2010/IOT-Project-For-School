@@ -4,4 +4,10 @@
 .vscode/launch.json
 .vscode/ipch
 
+node_modules
+.expo
+dist
+npm-debug.log*
+
 .fake
+/include/secrets.h

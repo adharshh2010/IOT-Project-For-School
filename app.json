@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "NEERGUARD",
+    "slug": "neerguard",
+    "scheme": "neerguard",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "plugins": [
+      "expo-router",
+      "expo-status-bar"
+    ],
+    "android": {
+      "package": "com.neerguard.app"
+    }
+  }
+}
